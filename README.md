@@ -7,7 +7,7 @@ Cybersecurity and defensive tooling
 Automation with Python and Bash
 Homelab
 
-I run a Proxmox-based environment that I use to build out small, enterprise-style networks. This includes Windows and Linux virtual machines, reusable templates, and ZFS-backed storage.
+I run a Proxmox-based environment that I use to for various homelab projects.
 
 Within the lab, I’ve set up domain services, DNS, and internal networking to simulate a realistic environment. I’ve spent time working through the quirks of running a domain controller, handling name resolution, and making everything behave like a cohesive network.
 
